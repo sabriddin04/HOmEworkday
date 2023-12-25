@@ -1,0 +1,15 @@
+C:\Users\Hp\Desktop\SOFTCLUB\Infrastucture\bin\Debug\net8.0\Infrastucture.deps.json
+C:\Users\Hp\Desktop\SOFTCLUB\Infrastucture\bin\Debug\net8.0\Infrastucture.dll
+C:\Users\Hp\Desktop\SOFTCLUB\Infrastucture\bin\Debug\net8.0\Infrastucture.pdb
+C:\Users\Hp\Desktop\SOFTCLUB\Infrastucture\bin\Debug\net8.0\Domain.dll
+C:\Users\Hp\Desktop\SOFTCLUB\Infrastucture\bin\Debug\net8.0\Domain.pdb
+C:\Users\Hp\Desktop\SOFTCLUB\Infrastucture\obj\Debug\net8.0\Infrastucture.csproj.AssemblyReference.cache
+C:\Users\Hp\Desktop\SOFTCLUB\Infrastucture\obj\Debug\net8.0\Infrastucture.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Hp\Desktop\SOFTCLUB\Infrastucture\obj\Debug\net8.0\Infrastucture.AssemblyInfoInputs.cache
+C:\Users\Hp\Desktop\SOFTCLUB\Infrastucture\obj\Debug\net8.0\Infrastucture.AssemblyInfo.cs
+C:\Users\Hp\Desktop\SOFTCLUB\Infrastucture\obj\Debug\net8.0\Infrastucture.csproj.CoreCompileInputs.cache
+C:\Users\Hp\Desktop\SOFTCLUB\Infrastucture\obj\Debug\net8.0\Infrastucture.csproj.CopyComplete
+C:\Users\Hp\Desktop\SOFTCLUB\Infrastucture\obj\Debug\net8.0\Infrastucture.dll
+C:\Users\Hp\Desktop\SOFTCLUB\Infrastucture\obj\Debug\net8.0\refint\Infrastucture.dll
+C:\Users\Hp\Desktop\SOFTCLUB\Infrastucture\obj\Debug\net8.0\Infrastucture.pdb
+C:\Users\Hp\Desktop\SOFTCLUB\Infrastucture\obj\Debug\net8.0\ref\Infrastucture.dll
